@@ -1,4 +1,5 @@
-# Lab7
+# Lab 7
+## Will Faulkner
 This is Part 1 Step 6.
 GitHub and GitHub desktop are going to make coding our final project easier than doing the coding with another program
 Using branches, each member of a team can have their own branch to work on portions of the project.
